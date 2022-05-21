@@ -4,6 +4,8 @@
 
 ## 📫 [Check out some of my projects I worked on during the program in my Portfolio](https://github.com/AtlasmanYevgenii/Practicum100-by-Yandex)
 
+Soon I will upload all the projects that I did on Practicum 100.
+
 # About me:
 
 - 🌱 I successfully and independently completed numerous projects on Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySql), EDA (Exploratory Data Analysis), Data Visualization (Maplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation (basic Bash, AWS), GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data based projects.
