@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently finishing the intensive 9-month Data Analysis course from Yandex Practicum100 Masterschool ![b2b6af_efe189b3e1624c7e9ecd186bf513bc51_mv2](https://user-images.githubusercontent.com/96375089/169254547-801127c4-b66e-463a-8455-0fd5eddbd71a.jpg)
+- 🔭 I’m currently finishing the intensive 9-month Data Analysis course from Yandex Practicum100 Masterschool (https://www.practicum100.org/data-analysis)
+
+![b2b6af_efe189b3e1624c7e9ecd186bf513bc51_mv2](https://user-images.githubusercontent.com/96375089/169254547-801127c4-b66e-463a-8455-0fd5eddbd71a.jpg)
 
 - 🌱 I successfully and independently completed numerous projects on Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySql), EDA (Exploratory Data Analysis), Data Visualization (Maplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation (basic Bash, AWS), GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data based projects.
 
