@@ -8,7 +8,7 @@ Soon I will upload all the projects that I did on Practicum 100.
 
 # About me:
 
-- 🌱 I successfully and independently completed numerous projects on Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySql), EDA (Exploratory Data Analysis), Data Visualization (Maplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data based projects.
+- 🌱 I successfully and independently completed numerous projects on Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySql), EDA (Exploratory Data Analysis), Data Visualization (Maplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 11 real data based projects.
 
 - 👯 That helped me gain deep knowledge cultivate and practice such skills, like visualizing the data and telling a story with meaningful insights so that it can help the management in better decision-making.
 
