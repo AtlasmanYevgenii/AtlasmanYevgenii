@@ -14,7 +14,7 @@
 
 - ⚡ Now I am looking forward to my first challenging job in the analytics-related field. I'd like to develop my skills and help businesses reach their goals.
 
-- 📫 Check out some of my projects I worked on during the program in my Portfolio :arrow_down: ⬇️
+- 📫 Check out some of my projects I worked on during the program in my Portfolio :arrow_down:
 
 
 <!--
