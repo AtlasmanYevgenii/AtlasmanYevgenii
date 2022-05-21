@@ -10,11 +10,11 @@
 
 - :mortar_board: My degrees in Energy Management and Electrical Engineering have helped me to develop strong critical thinking and problem-solving skills.
 
-- I chose Data Analytics because I have an analytical mindset and like to structure information and find ways out of difficult situations.
+- 🧐 I chose Data Analytics because I have an analytical mindset and like to structure information and find ways out of difficult situations.
 
 - ⚡ Now I am looking forward to my first challenging job in the analytics-related field. I'd like to develop my skills and help businesses reach their goals.
 
-- 📫 Check out some of my projects I worked on during the program in my Portfolio :arrow_down:
+- 📫 Check out some of my projects I worked on during the program in my Portfolio :arrow_down: ⬇️
 
 
 <!--
