@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 
-- 🔭 I’m currently finishing the intensive 9-month Data Analysis course from Yandex Practicum100 Masterschool (https://www.practicum100.org/data-analysis)
+- 🔭 I'm Yevgenii fresh graduate of the intensive 9-month Data Analysis program by Yandex Practicum 100
+- (https://www.practicum100.org/data-analysis)https://www.practicum100.org/data-analysis
+- [https://www.linkedin.com/school/joinmasterschool/] and Masterschool (), https://www.linkedin.com/school/joinmasterschool/
 
 ![b2b6af_efe189b3e1624c7e9ecd186bf513bc51_mv2](https://user-images.githubusercontent.com/96375089/169254547-801127c4-b66e-463a-8455-0fd5eddbd71a.jpg)
 
