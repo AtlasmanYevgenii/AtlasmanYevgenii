@@ -8,13 +8,13 @@ Soon I will upload all the projects that I did on Practicum 100.
 
 # About me:
 
-- 🌱 I successfully and independently completed numerous projects on Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySql), EDA (Exploratory Data Analysis), Data Visualization (Maplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data based projects.
+- 🌱  As of right now, I have successfully graduated from the intensive 9-month Data Analysis course from Yandex Practicum100 and Masterschool, where I completed numerous projects using Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySQL), EDA (Exploratory Data Analysis), Data Visualization (Maplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data-based projects. 
 
-- 👯 That helped me gain deep knowledge cultivate and practice such skills, like visualizing the data and telling a story with meaningful insights so that it can help the management in better decision-making.
+- 👯 This experience helped me gain a deeper understanding of the data, cultivate and practice such skills, as visualizing data and telling a story with insights to help managers make better decisions.
 
 - :mortar_board: My degrees in Energy Management and Electrical Engineering have helped me to develop strong critical thinking and problem-solving skills.
 
-- 🧐 I chose Data Analytics because I have an analytical mindset and like to structure information and find ways out of difficult situations.
+- 🧐 The reason I chose Data Analytics is that I have an analytical mindset and enjoy organizing information and finding solutions to difficult problems. 
 
 - ⚡ Now I am looking forward to my first challenging job in the analytics related field. I'd like to develop my skills and help businesses reach their goals.
 
