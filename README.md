@@ -16,7 +16,7 @@ Soon I will upload all the projects that I did on Practicum 100.
 
 - 🧐 The reason I chose Data Analytics is that I have an analytical mindset and enjoy organizing information and finding solutions to difficult problems. 
 
-- ⚡ Now I am looking forward to my first challenging job in the analytics related field. I'd like to develop my skills and help businesses reach their goals.
+- ⚡ I am eager to begin my first challenging role in the field of analytics. I'd like to develop my skills and help businesses reach their goals.
 
 
 
