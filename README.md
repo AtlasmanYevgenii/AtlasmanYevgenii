@@ -4,7 +4,7 @@
 
 ## 📫 [Check out some of my projects I worked on during the program in my Portfolio](https://github.com/AtlasmanYevgenii/Practicum100-by-Yandex)
 
-Soon I will upload all the projects that I did on Practicum 100.
+Soon I will upload all the projects that I did on Practicum Israel.
 
 # About me:
 
