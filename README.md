@@ -8,7 +8,7 @@ Soon I will upload all the projects that I did on Practicum Israel.
 
 # About me:
 
-- 🌱  As of right now, I have successfully graduated from the intensive 9-month Data Analysis course from Yandex Practicum100 and Masterschool, where I completed numerous projects using Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySQL), EDA (Exploratory Data Analysis), Data Visualization (Maplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data-based projects. 
+- 🌱  As of right now, I have successfully graduated from the intensive 9-month Data Analysis course from Yandex Practicum100 and Masterschool, where I completed numerous projects using Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySQL), EDA (Exploratory Data Analysis), Data Visualization (Matplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data-based projects. 
 
 - 👯 This experience helped me gain a deeper understanding of the data, cultivate and practice such skills, as visualizing data and telling a story with insights to help managers make better decisions.
 
