@@ -1,22 +1,23 @@
 ### Hi there 👋 
 
-- 🔭 I'm Yevgenii, fresh graduate of the intensive 9-month Data Analysis program by Yandex [Practicum 100](https://www.practicum100.org/data-analysis) and [Masterschool ](https://www.linkedin.com/school/joinmasterschool/). Welcome to my GitHub page.
+- 🔭 I am Yevgenii, a recent graduate of the intensive 9-month Data Analytics program offered by Yandex [Practicum 100](https://www.practicum100.org/data-analysis) and [Masterschool ](https://www.linkedin.com/school/joinmasterschool/). Welcome to my GitHub page.
 
-## 📫 [Check out some of my projects I worked on during the program in my Portfolio](https://github.com/AtlasmanYevgenii/Practicum100-by-Yandex)
+## 📫 [Visit my Portfolio to see some of the projects I completed during the program](https://github.com/AtlasmanYevgenii/Practicum100-by-Yandex)
 
-Soon I will upload all the projects that I did on Practicum Israel.
+On Practicum Israel, I have completed a number of projects that I will upload soon.
 
 # About me:
 
-- 🌱  As of right now, I have successfully graduated from the intensive 9-month Data Analysis course from Yandex Practicum100 and Masterschool, where I completed numerous projects using Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySQL), EDA (Exploratory Data Analysis), Data Visualization (Matplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real data-based projects. 
+- 🌱  A few months ago, I have successfully graduated from Yandex Practicum100 and Masterschool course, where I completed numerous projects using Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySQL), EDA (Exploratory Data Analysis), Data Visualization (Matplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real-life data-based projects. 
 
-- 👯 This experience helped me gain a deeper understanding of the data, cultivate and practice such skills, as visualizing data and telling a story with insights to help managers make better decisions.
+- 👯 Through this experience, I gained a deeper understanding of the data, cultivated and practiced such skills, as visualizing data and telling a story, sharing insights to help managers make better decisions.
 
-- :mortar_board: My degrees in Energy Management and Electrical Engineering have helped me to develop strong critical thinking and problem-solving skills.
+- :mortar_board: With degrees in Energy Management and Electrical Engineering, I've developed strong critical thinking and problem-solving skills.
 
-- 🧐 The reason I chose Data Analytics is that I have an analytical mindset and enjoy organizing information and finding solutions to difficult problems. 
+- 🧐 Having an analytical mindset and enjoying organizing information and finding solutions to complicated problems is why I chose Data Analytics as my career path. 
 
-- ⚡ I am eager to begin my first challenging role in the field of analytics. I'd like to develop my skills and help businesses reach their goals.
+- ⚡ I am eager to begin my first challenging role in the field of analytics. It would be rewarding for me to develop my skills and assist businesses with their goals.
+
 
 
 
