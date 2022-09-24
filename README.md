@@ -1,14 +1,14 @@
 ### Hi there 👋 
 
-- 🔭 I am Yevgenii, a recent graduate of the intensive 9-month Data Analytics program offered by Yandex [Practicum 100](https://www.practicum100.org/data-analysis) and [Masterschool ](https://www.linkedin.com/school/joinmasterschool/). Welcome to my GitHub page.
+- 🔭 I am Yevgenii, a graduate of the intensive 9-month Data Analytics program offered by Yandex [Practicum 100](https://www.practicum100.org/data-analysis) and [Masterschool ](https://www.linkedin.com/school/joinmasterschool/). Welcome to my GitHub page.
 
 ## 📫 [Visit my Portfolio to see some of the projects I completed during the program](https://github.com/AtlasmanYevgenii/Practicum100-by-Yandex)
 
-On Practicum Israel, I have completed a number of projects that I will upload soon.
+On Practicum, I have completed a number of projects that I will upload soon.
 
 # About me:
 
-- 🌱  A few months ago, I have successfully graduated from Yandex Practicum100 and Masterschool course, where I completed numerous projects using Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySQL), EDA (Exploratory Data Analysis), Data Visualization (Matplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real-life data-based projects. 
+- 🌱  I have successfully graduated from Practicum and Masterschool Data Analyst professional training course, where I completed numerous projects using Python (Pandas and NumPy), Excel, Relational Databases (PostgreSQL, MySQL), EDA (Exploratory Data Analysis), Data Visualization (Matplotlib, Seaborn, Plotly), Dashboards (Dash, Tableau), Automation, GitHub, A/B Testing, Machine Learning (Forecasting and Segmentation), KPIs, 12 real-life data-based projects. 
 
 - 👯 Through this experience, I gained a deeper understanding of the data, cultivated and practiced such skills, as visualizing data and telling a story, sharing insights to help managers make better decisions.
 
