@@ -14,7 +14,7 @@ On Practicum, I have completed a number of projects that I will upload soon.
 
 - :mortar_board: With degrees in Energy Management and Electrical Engineering, I've developed strong critical thinking and problem-solving skills.
 
-- 🧐 Having an analytical mindset and enjoying organizing information and finding solutions to complicated problems is why I chose Data Analytics as my career path. 
+- 🧐 After COVID situation, I sought to pursue a career in something I had always been passionate about, transforming my hobby into a profession. When I was a child, I loved collecting data from football matches during the World Cups and creating tables, graphs, and "top 5" dashboards based on that data. Since my youth, I have kept track of my income and expenses in Microsoft Excel, and I have enjoyed analyzing them on a monthly and annual basis to better understand my financial situation, compare it to previous periods, control expenses and increase income, and even predict my savings "milestones". It is why I chose Data Analytics as my career path. 
 
 - ⚡ I am eager to begin my first challenging role in the field of analytics. It would be rewarding for me to develop my skills and assist businesses with their goals.
 
